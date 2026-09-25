@@ -1,0 +1,6 @@
+{
+  "name": "FormToSheet AI & Analytics",
+  "description": "Pembuat Google Form otomatis bertenaga AI yang terhubung langsung ke Google Sheets dengan analisis visual grafis dan ekspor laporan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
